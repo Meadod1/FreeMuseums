@@ -1,0 +1,356 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  .div,
+  .div1,
+  .div2,
+  .div3,
+  .freemuseumsgmaicom {
+    position: absolute;
+    top: 27px;
+    left: 1467px;
+    font-weight: 500;
+    display: inline-block;
+    width: 124px;
+    height: 29px;
+  }
+  .div1,
+  .div2,
+  .div3,
+  .freemuseumsgmaicom {
+    top: 66px;
+  }
+  .div2,
+  .div3,
+  .freemuseumsgmaicom {
+    top: 105px;
+  }
+  .div3,
+  .freemuseumsgmaicom {
+    top: 144px;
+  }
+  .freemuseumsgmaicom {
+    top: 129px;
+    left: 673px;
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-700);
+    width: 235px;
+    height: 46px;
+  }
+  .social {
+    position: absolute;
+    top: 115px;
+    left: 1010px;
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+  }
+  .tg {
+    position: absolute;
+    top: 70px;
+    left: 950px;
+    display: inline-block;
+    width: 50px;
+    height: 60px;
+  }
+  .inst {
+    position: absolute;
+    top: 70px;
+    left: 1050px;
+    display: inline-block;
+    width: 50px;
+    height: 60px;
+  }
+  .whats {
+    position: absolute;
+    top: 70px;
+    left: 1150px;
+    display: inline-block;
+    width: 50px;
+    height: 60px;
+  }
+  .dev {
+    position: absolute;
+    top: 50px;
+    left: 1250px;
+    display: inline-block;
+    width: 180px;
+    height: 60px;
+  }
+  .p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .p1 {
+    margin: 0;
+  }
+  .div4,
+  .div5 {
+    position: absolute;
+    top: 129px;
+    left: 377px;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    color: var(--color-gray-700);
+    display: inline-block;
+    width: 220px;
+    height: 46px;
+  }
+  .div5 {
+    left: 71px;
+  }
+  .footer2-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1609px;
+    height: 4px;
+  }
+  .gps-logo-2,
+  .mail-logo-2,
+  .phone-logo-1 {
+    position: absolute;
+    top: 55px;
+    left: 673px;
+    width: 110px;
+    height: 73.94px;
+    object-fit: cover;
+  }
+  .gps-logo-2,
+  .phone-logo-1 {
+    top: 59px;
+    left: 377px;
+    height: 65.95px;
+  }
+  .gps-logo-2 {
+    left: 71px;
+    width: 65px;
+    height: 65.54px;
+  }
+  .footer2,
+  .footer2-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1609px;
+    height: 175px;
+  }
+  .footer2-wrapper {
+    top: 2027px;
+    background-color: var(--color-gray-200);
+    width: 1920px;
+    height: 197px;
+    overflow: hidden;
+  }
+  .national-museum-of-the-republi-child {
+    position: absolute;
+    top: 1041px;
+    left: 0;
+    background-color: #593934;
+    width: 1920px;
+    height: 986px;
+  }
+  .icon {
+    position: absolute;
+    top: 24px;
+    left: 0;
+    width: 1920px;
+    height: 1065px;
+    object-fit: cover;
+  }
+  .up3-child {
+    position: absolute;
+    top: 0;
+    left: 70px;
+    border-radius: var(--br-md);
+    width: 332px;
+    height: 352px;
+    object-fit: cover;
+  }
+  .up2-child,
+  .up3 {
+    position: absolute;
+    top: 0;
+    left: 1108px;
+    width: 473px;
+    height: 396px;
+  }
+  .up2-child {
+    left: 73px;
+    border-radius: var(--br-md);
+    width: 332px;
+    height: 352px;
+    object-fit: cover;
+  }
+  .up1-child,
+  .up2 {
+    position: absolute;
+    top: 0;
+    left: 542px;
+    width: 473px;
+    height: 396px;
+  }
+  .up1-child {
+    left: 52px;
+    border-radius: var(--br-md);
+    width: 332px;
+    height: 352px;
+    object-fit: cover;
+  }
+  .exhibitions11,
+  .up1 {
+    position: absolute;
+    height: 396px;
+  }
+  .up1 {
+    top: 0;
+    left: 0;
+    width: 473px;
+    text-align: left;
+  }
+  .exhibitions11 {
+    top: 1127px;
+    left: 41px;
+    width: 1920px;
+    font-size: var(--font-size-base);
+    color: var(--color-gray-800);
+  }
+  .exhibitions1 {
+    position: absolute;
+    top: -24px;
+    left: 0;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.25);
+    width: 4664px;
+    height: 1523px;
+  }
+  .div10,
+  .div6,
+  .div7,
+  .div8,
+  .div9 {
+    position: absolute;
+    top: 42px;
+    left: 1456px;
+    display: inline-block;
+    width: 84px;
+    height: 21px;
+  }
+  .div10,
+  .div7,
+  .div8,
+  .div9 {
+    top: 39px;
+    left: 1037px;
+    width: 111px;
+  }
+  .div10,
+  .div8,
+  .div9 {
+    left: 867px;
+    width: 114px;
+  }
+  .div10,
+  .div9 {
+    left: 676px;
+    width: 135px;
+  }
+  .div10 {
+    left: 489px;
+    width: 123px;
+  }
+  .header,
+  .logo-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 104px;
+  }
+  .logo-icon {
+    width: 142px;
+    object-fit: cover;
+  }
+  .header {
+    width: 1540px;
+    text-align: center;
+    font-size: var(--font-size-lg);
+    color: var(--color-white);
+    font-family: var(--font-encode-sans-expanded);
+  }
+  .national-museum-of-the-republi-item {
+    position: absolute;
+    top: 188px;
+    left: 142px;
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.51);
+    width: 436px;
+    height: 666px;
+  }
+  .span {
+    font-weight: 300;
+  }
+  .div11 {
+    position: absolute;
+    top: 300px;
+    left: 182px;
+    font-size: var(--font-size-2xl);
+    display: inline-block;
+    width: 376px;
+  }
+  .national-museum-of-the-republi-inner {
+    position: absolute;
+    top: 1510px;
+    left: 267px;
+    width: 1066px;
+    height: 463px;
+  }
+  .national-museum-of-the-republi {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    width: 1920px;
+    height: 2027px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-3xl);
+    color: var(--color-white);
+  }
+  .frame-parent {
+    position: relative;
+    width: 1920px;
+    height: 2224px;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-gray-800);
+    font-family: var(--font-encode-sans-expanded);
+  }
+  :root {
+    --font-encode-sans-expanded: "Encode Sans Expanded";
+  
+    --font-size-sm: 17px;
+    --font-size-base: 20px;
+    --font-size-lg: 24px;
+    --font-size-xl: 27px;
+    --font-size-2xl: 30px;
+    --font-size-3xl: 40px;
+    --font-size-4xl: 60px;
+    --font-size-5xl: 64px;
+    --font-size-6xl: 70px;
+
+    --color-white: #fff;
+    --color-gray-100: #d9d9d9;
+    --color-gray-200: #15181a;
+    --color-gray-300: rgba(254, 254, 254, 0.9);
+    --color-gray-400: rgba(249, 249, 249, 0.66);
+    --color-gray-500: rgba(255, 255, 255, 0.46);
+    --color-gray-600: rgba(255, 255, 255, 0.9);
+    --color-gray-700: rgba(255, 255, 255, 0.52);
+    --color-gray-800: rgba(255, 255, 255, 0.92);
+  
+    --br-md: 25px;
+  }

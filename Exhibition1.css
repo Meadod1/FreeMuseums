@@ -1,0 +1,198 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  a{
+    color: white;
+    text-decoration: none;
+}
+  .icon,
+  .icon1,
+  .icon2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 553px;
+    height: 1041px;
+    object-fit: cover;
+    opacity: 0.7;
+  }
+  .icon1,
+  .icon2 {
+    left: 513px;
+    width: 573px;
+  }
+  .icon2 {
+    left: 1047px;
+    width: 553px;
+    height: 1067px;
+  }
+  .news,
+  .sign-in {
+    position: absolute;
+    top: 4px;
+    left: 973px;
+    display: inline-block;
+    width: 84px;
+    height: 21px;
+  }
+  .news {
+    top: 0;
+    left: 538px;
+  }
+  .about-us {
+    left: 358px;
+    width: 114px;
+  }
+  .about-us,
+  .exhibition1,
+  .explore {
+    position: absolute;
+    top: 0;
+    display: inline-block;
+    height: 21px;
+  }
+  .exhibition1 {
+    left: 157px;
+    font-weight: 600;
+    width: 135px;
+  }
+  .explore {
+    left: 0;
+    width: 123px;
+  }
+  .navigation {
+    position: absolute;
+    top: 39px;
+    left: 489px;
+    width: 1057px;
+    height: 25px;
+  }
+  .header,
+  .logo-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 104px;
+  }
+  .logo-icon {
+    width: 142px;
+    object-fit: cover;
+  }
+  .header {
+    width: 1546px;
+    font-size: var(--font-size-xl);
+    color: var(--color-white);
+  }
+  .which-museum {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .do-you-want {
+    margin: 0;
+  }
+  .which-museum-do-container {
+    position: absolute;
+    top: 130px;
+    left: 374px;
+    font-size: var(--font-size-4xl);
+    font-weight: 300;
+    color: var(--color-white);
+    display: inline-block;
+    width: 846px;
+    height: 170px;
+  }
+  .button1 {
+    position: absolute;
+    top: 462px;
+    left: 116px;
+    border-radius: var(--br-sm);
+    background-color: var(--color-gray-200);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.25);
+    width: 302px;
+    height: 117px;
+  }
+  .the-british-museum {
+    position: absolute;
+    top: 500px;
+    left: 125px;
+    font-weight: 100;
+    display: inline-block;
+    width: 283px;
+    height: 41px;
+  }
+  .button2 {
+    position: absolute;
+    top: 462px;
+    left: 646px;
+    border-radius: var(--br-sm);
+    background-color: var(--color-gray-200);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.25);
+    width: 302px;
+    height: 117px;
+  }
+  .the-national-museum {
+    position: absolute;
+    top: 471px;
+    left: 655px;
+    font-weight: 100;
+    display: inline-block;
+    width: 283px;
+    height: 108px;
+  }
+  .button3 {
+    position: absolute;
+    top: 452px;
+    left: 1181px;
+    border-radius: var(--br-sm);
+    background-color: var(--color-gray-200);
+    width: 302px;
+    height: 117px;
+  }
+  .acropolis-museum {
+    position: absolute;
+    top: 495px;
+    left: 1190px;
+    font-weight: 100;
+    display: inline-block;
+    width: 283px;
+  }
+  .exhibition {
+    position: relative;
+    background-color: var(--color-gray-300);
+    width: 100%;
+    height: 1041px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-2xl);
+    color: var(--color-gray-300);
+    font-family: var(--font-encode-sans-expanded);
+  }
+  :root {
+    /* fonts */
+    --font-encode-sans-expanded: "Encode Sans Expanded";
+  
+    /* font sizes */
+    --font-size-base: 17px;
+    --font-size-lg: 20px;
+    --font-size-xl: 24px;
+    --font-size-2xl: 27px;
+    --font-size-3xl: 30px;
+    --font-size-4xl: 70px;
+  
+    /* Colors */
+    --color-gray-100: #fefefe;
+    --color-gray-200: #d9d9d9;
+    --color-gray-300: #15181a;
+    --color-gray-400: rgba(255, 255, 255, 0.52);
+    --color-gray-500: rgba(249, 249, 249, 0.66);
+    --color-gray-600: rgba(255, 255, 255, 0.69);
+    --color-gray-700: rgba(255, 255, 255, 0.92);
+    --color-gray-800: rgba(255, 255, 255, 0.46);
+    --color-white: #fff;
+  
+    /* border radiuses */
+    --br-sm: 25px;
+    --br-md: 30px;
+  }
+    
